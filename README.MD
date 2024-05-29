@@ -40,9 +40,9 @@ Fundamentals of Databases
 - Basic SQL Concepts
 
 ### FINAL PROJECT
-Task 1: To Test the Theory
-Task 2: Urban Scooter Web Application
-Task 3: Urban Scooter Application API
+- Task 1: To Test the Theory
+- Task 2: Urban Scooter Web Application
+- Task 3: Urban Scooter Application API
 
 ## CONCLUSION
 This QA project was developed with the aim of improving my skills in software testing and learning new technologies. Throughout the development of this project, I used the Jira platform for creating my bug reports. Here is the link for access: [[Jira/Projects]](https://nataliavessoni.atlassian.net/jira/projects). I look forward to further expanding my knowledge and contributing to future projects!
